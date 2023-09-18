@@ -1,0 +1,72 @@
+[17-Jul-2023 01:32:17 UTC] PHP Warning:  require_once(/home/cutipega/public_html/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/cutipega/public_html/index.php on line 202
+[17-Jul-2023 01:32:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/core/CodeIgniter.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/index.php on line 202
+[17-Jul-2023 01:33:57 UTC] PHP Warning:  require_once(/home/cutipega/public_html/system/core/codeIgniter.php): failed to open stream: No such file or directory in /home/cutipega/public_html/index.php on line 202
+[17-Jul-2023 01:33:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/core/codeIgniter.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/index.php on line 202
+[17-Jul-2023 01:33:59 UTC] PHP Warning:  require_once(/home/cutipega/public_html/system/core/codeIgniter.php): failed to open stream: No such file or directory in /home/cutipega/public_html/index.php on line 202
+[17-Jul-2023 01:33:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/core/codeIgniter.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/index.php on line 202
+[17-Jul-2023 01:34:38 UTC] PHP Warning:  require(/home/cutipega/public_html/system/core/Common.php): failed to open stream: No such file or directory in /home/cutipega/public_html/system/core/codeigniter.php on line 52
+[17-Jul-2023 01:34:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/cutipega/public_html/system/core/Common.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/core/codeigniter.php on line 52
+[17-Jul-2023 01:34:39 UTC] PHP Warning:  require(/home/cutipega/public_html/system/core/Common.php): failed to open stream: No such file or directory in /home/cutipega/public_html/system/core/codeigniter.php on line 52
+[17-Jul-2023 01:34:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/cutipega/public_html/system/core/Common.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/core/codeigniter.php on line 52
+[17-Jul-2023 08:39:02 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/core/Loader.php on line 335
+[17-Jul-2023 08:43:44 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/core/Loader.php on line 335
+[17-Jul-2023 08:44:02 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB_driver.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/database/DB.php on line 122
+[17-Jul-2023 08:47:30 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB_driver.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/database/DB.php on line 122
+[17-Jul-2023 08:47:32 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB_driver.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/database/DB.php on line 122
+[17-Jul-2023 08:47:32 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB_driver.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/database/DB.php on line 122
+[17-Jul-2023 08:47:32 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB_driver.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/database/DB.php on line 122
+[17-Jul-2023 08:47:32 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB_driver.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/database/DB.php on line 122
+[17-Jul-2023 08:47:33 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB_driver.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/database/DB.php on line 122
+[17-Jul-2023 09:22:30 Asia/jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/cutipega/public_html/system/database/DB_driver.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cutipega/public_html/system/database/DB.php on line 122
+[18-Jul-2023 16:04:12 Asia/Bangkok] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: http://cutipegawai.web.id/assets/img/logo_laporan penetapan.png in /home/cutipega/public_html/application/third_party/fpdf.php:271
+Stack trace:
+#0 /home/cutipega/public_html/application/third_party/fpdf.php(1262): FPDF->Error('Can't open imag...')
+#1 /home/cutipega/public_html/application/third_party/fpdf.php(885): FPDF->_parsepng('http://cutipega...')
+#2 /home/cutipega/public_html/application/controllers/karyawan.php(691): FPDF->Image('http://cutipega...', 10, 10, 20, 25)
+#3 /home/cutipega/public_html/system/core/CodeIgniter.php(360): Karyawan->laporan_penetapan(83)
+#4 /home/cutipega/public_html/index.php(202): require_once('/home/cutipega/...')
+#5 {main}
+  thrown in /home/cutipega/public_html/application/third_party/fpdf.php on line 271
+[24-Jul-2023 19:27:14 Asia/Bangkok] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cutipega/public_html/application/third_party/fpdf.php:271
+Stack trace:
+#0 /home/cutipega/public_html/application/third_party/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/cutipega/public_html/application/third_party/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cutipega/public_html/application/controllers/karyawan.php(791): FPDF->Output()
+#3 /home/cutipega/public_html/system/core/CodeIgniter.php(360): Karyawan->laporan_penetapan(83)
+#4 /home/cutipega/public_html/index.php(202): require_once('/home/cutipega/...')
+#5 {main}
+  thrown in /home/cutipega/public_html/application/third_party/fpdf.php on line 271
+[24-Jul-2023 19:29:54 Asia/Bangkok] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cutipega/public_html/application/third_party/fpdf.php:271
+Stack trace:
+#0 /home/cutipega/public_html/application/third_party/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/cutipega/public_html/application/third_party/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cutipega/public_html/application/controllers/karyawan.php(791): FPDF->Output()
+#3 /home/cutipega/public_html/system/core/CodeIgniter.php(360): Karyawan->laporan_penetapan(82)
+#4 /home/cutipega/public_html/index.php(202): require_once('/home/cutipega/...')
+#5 {main}
+  thrown in /home/cutipega/public_html/application/third_party/fpdf.php on line 271
+[24-Jul-2023 19:32:12 Asia/Bangkok] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cutipega/public_html/application/third_party/fpdf.php:271
+Stack trace:
+#0 /home/cutipega/public_html/application/third_party/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/cutipega/public_html/application/third_party/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cutipega/public_html/application/controllers/karyawan.php(791): FPDF->Output()
+#3 /home/cutipega/public_html/system/core/CodeIgniter.php(360): Karyawan->laporan_penetapan(82)
+#4 /home/cutipega/public_html/index.php(202): require_once('/home/cutipega/...')
+#5 {main}
+  thrown in /home/cutipega/public_html/application/third_party/fpdf.php on line 271
+[26-Jul-2023 12:28:24 Asia/jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Admin::detail_karyawan(), 0 passed in /home/cutipega/public_html/system/core/CodeIgniter.php on line 360 and exactly 1 expected in /home/cutipega/public_html/application/controllers/admin.php:21
+Stack trace:
+#0 /home/cutipega/public_html/system/core/CodeIgniter.php(360): Admin->detail_karyawan()
+#1 /home/cutipega/public_html/index.php(202): require_once('/home/cutipega/...')
+#2 {main}
+  thrown in /home/cutipega/public_html/application/controllers/admin.php on line 21
+[26-Jul-2023 12:30:30 Asia/jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/cutipega/public_html/application/views/admin/tampil_karyawan.php on line 9
+[26-Jul-2023 12:30:33 Asia/jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/cutipega/public_html/application/views/admin/tampil_karyawan.php on line 9
+[26-Jul-2023 12:30:34 Asia/jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/cutipega/public_html/application/views/admin/tampil_karyawan.php on line 9
+[26-Jul-2023 12:30:35 Asia/jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/cutipega/public_html/application/views/admin/tampil_karyawan.php on line 9
+[26-Jul-2023 12:30:59 Asia/jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Admin::detail_karyawan(), 0 passed in /home/cutipega/public_html/system/core/CodeIgniter.php on line 360 and exactly 1 expected in /home/cutipega/public_html/application/controllers/admin.php:21
+Stack trace:
+#0 /home/cutipega/public_html/system/core/CodeIgniter.php(360): Admin->detail_karyawan()
+#1 /home/cutipega/public_html/index.php(202): require_once('/home/cutipega/...')
+#2 {main}
+  thrown in /home/cutipega/public_html/application/controllers/admin.php on line 21

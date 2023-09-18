@@ -1,0 +1,12 @@
+harap dibaca..
+
+1.untuk mengakses halaman administrator silahkan kunjungi URL : 
+  http://localhost/cuti/login_adm.html
+
+atau bisa juga
+  http://localhost/cuti/admin
+
+2.untuk mengakses halaman karyawan silahkan kunjungi URL : 
+  http://localhost/cuti
+
+Pergunakan aplikasi ini sebaik mungkin..
